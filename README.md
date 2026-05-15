@@ -142,12 +142,7 @@ ConnectSphere/
 
 ---
 
-## 🔮 Future Improvements
 
-* Image upload for posts
-* Real-time chat & notifications (Socket.io)
-* Search users functionality
-* Admin dashboard
 
 ---
 
